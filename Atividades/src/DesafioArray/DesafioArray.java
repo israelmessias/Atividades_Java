@@ -9,12 +9,18 @@ public class DesafioArray {
         System.out.println("Digite quantidades de notas: ");
         quantNotas = input.nextInt();
 
-        float[] nota = new float[quantNotas];
+        float[] notas = new float[quantNotas];
 
-        for(int i = 0; i < nota.length; i++){
+        for(int i = 0; i < notas.length; i++){
             System.out.println("Digite o valor da nota "+(i+1)+":");
-            nota[i] = input.nextInt();
+            notas[i] = input.nextInt();
         }
-        System.out.println(Arrays.toString(nota));
+        float total = 0;
+        for(float nota:notas) {
+        	total += nota;
+        }
+       float media = total/notas.length;
+
+        System.out.println("A media é: "+ media);
     }
 }
