@@ -12,5 +12,10 @@ public class Jantar {
         maria.comeu.pesoDaComida = 0.65f;
         System.out.println(maria.estadoDaPessoa());
 
+        var samuel = new Pessoa("Samuel", 69.25f);
+        samuel.comeu.nomeDaComida = "Pastelão";
+        samuel.comeu.pesoDaComida = 55.50f;
+        System.out.println(samuel.estadoDaPessoa());
+
     }
 }
