@@ -1,0 +1,31 @@
+      ___________
+set ( º  º    º  )
+    (º        º º)   => O set é um conjunto de elementos não ordenados, e não aceita repetições.
+    ( º  º      º)
+     _____________
+
+
+ _______________
+| º    º     º  |
+| º    º     º  |
+| º    º     º  |  => List uma lista de elementos aeita-se repetição.
+| º    º     º  |
+| º    º     º  |
+ ----------------
+
+  ______________
+ |      |       |
+ |      |       |  => O map é como se fosse uma tabela, mas não aceita repetição.
+ |      |       |
+ |      |       |
+  --------------
+
+
+ |  | | | | | | | => queue é uma fila.
+
+
+
+ ---------
+ --------- => Stack é uma pilha, aonde o primeiro o ultimo elemento é o primeiro a sair.
+ ---------
+ ---------
