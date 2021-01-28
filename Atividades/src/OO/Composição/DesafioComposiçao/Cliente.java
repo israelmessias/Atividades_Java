@@ -7,11 +7,14 @@ public class Cliente {
 
     Cliente(String nome){this.nome = nome;}
 
-    double obterValorTotal(){
+    Double obterValorTotal(){
         double total = 0;
         for(Compra compraAtual: compras){total += compraAtual.obterValorTotal();}
         return total;
     }
 
-
+    @Override
+    public String toString() {
+        return "O valor total das compras de "+nome+" foi R$"+obterValorTotal();
+    }
 }

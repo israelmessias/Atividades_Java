@@ -9,7 +9,12 @@ public class Compra {
         this.intens.add(new Intem(produto, quantidade));
     }
 
-    double obterValorTotal(){
+    void adicionarIntem(String nome, double preco,int quantidade){
+        //
+        this.intens.add(new Intem(new Produto(nome, preco), quantidade));
+    }
+
+    Double obterValorTotal(){
         double total = 0;
         for(Intem intem: intens){total += intem.quantidade * intem.produto.preco;}
         return total;
