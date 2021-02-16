@@ -21,5 +21,6 @@ public class TestString {
         java.lang.String frase4 = "GRANDE DIA!!!";
         java.lang.String diminuitivo = frase4.toLowerCase();
         System.out.println(diminuitivo);
+
     }
 }
