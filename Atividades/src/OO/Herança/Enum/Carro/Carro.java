@@ -1,21 +1,21 @@
 package OO.Herança.Enum.Carro;
 
-public class Carro {
-    int VELOCIDADE_MAXIMA;
+ public class Carro {
+    public int VELOCIDADE_MAXIMA;
     //O estado atual da velocidade do carro
-    int velocidadeAtual;
+    public int velocidadeAtual;
     //A variação da velocidade é de 5km
-    int delta = 5;
-    Carro(int velocidade_maxima){
+     protected int delta = 5;
+     Carro(int velocidade_maxima, int delta_ferrari){
         VELOCIDADE_MAXIMA = velocidade_maxima;
+        delta_ferrari = delta;
     }
-
-    //Sempre que for acelerar a velocidade aumentar 5 km/h
-    void acelerar(){
+     //Sempre que for acelerar a velocidade aumentar 5 km/h
+    public void acelerar(){
         velocidadeAtual += delta;
     }
     //Frear
-    void frear(){
+    public void frear(){
         //A velocidade Atual tem que ser menor ou igual a velocidade maxima
         if(velocidadeAtual + delta > VELOCIDADE_MAXIMA)
             velocidadeAtual = VELOCIDADE_MAXIMA;

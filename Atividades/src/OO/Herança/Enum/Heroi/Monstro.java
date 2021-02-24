@@ -2,11 +2,11 @@ package OO.Herança.Enum.Heroi;
 
 public class Monstro extends Jogador{
     //
-    Monstro(int x, int y){
+    public Monstro(int x, int y){
         super(x, y);
     }
 
-    boolean ataqueEspecial(Jogador oponente){
+   public boolean ataqueEspecial(Jogador oponente){
         int diferençaX = Math.abs(x - oponente.x);
         int diferençaY = Math.abs(y - oponente.y);
 

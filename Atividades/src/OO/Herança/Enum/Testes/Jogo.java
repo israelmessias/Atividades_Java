@@ -1,4 +1,8 @@
-package OO.Herança.Enum.Heroi;
+package OO.Herança.Enum.Testes;
+
+import OO.Herança.Enum.Heroi.Direção;
+import OO.Herança.Enum.Heroi.Heroi;
+import OO.Herança.Enum.Heroi.Monstro;
 
 public class Jogo {
     public static void main(String[] args) {

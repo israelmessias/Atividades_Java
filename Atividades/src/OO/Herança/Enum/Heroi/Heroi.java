@@ -2,10 +2,10 @@ package OO.Herança.Enum.Heroi;
 //
 public class Heroi extends Jogador{
     //coloquei parametros no construtor padrão
-    Heroi(int x, int y){
+    public Heroi(int x, int y){
         super(x, y);
     }
-    boolean ataqueEspecial(Jogador oponente){
+    public boolean ataqueEspecial(Jogador oponente){
         int diferençaX = Math.abs(x - oponente.x);
         int diferençaY = Math.abs(y - oponente.y);
 
@@ -16,7 +16,7 @@ public class Heroi extends Jogador{
         }
         return true;
     }
-    boolean ataqueFinal(Jogador vilão){
+    public boolean ataqueFinal(Jogador vilão){
         boolean ataque1 = super.atacar(vilão);
         boolean ataque2 = super.atacar(vilão);
         boolean ataque3 = super.atacar(vilão);
