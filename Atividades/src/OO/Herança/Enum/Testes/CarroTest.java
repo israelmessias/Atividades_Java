@@ -10,12 +10,12 @@ public class CarroTest{
         civic.acelerar();
         System.out.println(civic);
 
-        Ferrari ferrari = new Ferrari();
-        ferrari.acelerar();
-        ferrari.acelerar();
-        ferrari.frear();
-        System.out.println(ferrari);
-
-
+        Ferrari myCar = new Ferrari();
+        myCar.ligarTurbo();
+        myCar.acelerar();
+        myCar.desligarTurbo();
+        myCar.ligarAr();
+        myCar.acelerar();
+        System.out.println(myCar);
     }
 }

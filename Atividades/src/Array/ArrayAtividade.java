@@ -13,7 +13,6 @@ public class ArrayAtividade {
         int indice = 0;
             for (int arrays:array) {
                 System.out.println("Indice: " + indice++ + " -> " + Arrays.toString(new int[]{arrays}));
-
         }
 
     }
