@@ -8,7 +8,7 @@ package OO.Herança.Enum.Carro;
      //A variação da velocidade é de 5km
     protected int delta;
     //Construtor vai ser usado como para
-    protected Carro(int velocidade_maxima){
+    protected Carro(int velocidadeMaxima, int velocidade_maxima){
         VELOCIDADE_MAXIMA = velocidade_maxima;
     }
      //Sempre que for acelerar a velocidade aumentar 5 km/h

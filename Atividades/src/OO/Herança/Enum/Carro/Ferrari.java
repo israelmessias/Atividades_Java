@@ -5,7 +5,7 @@ public class Ferrari extends Carro implements Esportivo, Luxo {
     private boolean ligarTurbo;
     private boolean ligarAr;
 
-    public Ferrari(){super(315);}
+    public Ferrari(){super(190, 315);}
     @Override
     public void ligarTurbo() {ligarTurbo = true;}
     @Override
