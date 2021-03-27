@@ -3,8 +3,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Aluno {
-    final String nome;
-    final List<Curso> cursos = new ArrayList<>();
+    public final String nome;
+    public final List<Curso> cursos = new ArrayList<>();
 
     Aluno(String nome){this.nome = nome;}
     Curso filtroCurso(String nome){
