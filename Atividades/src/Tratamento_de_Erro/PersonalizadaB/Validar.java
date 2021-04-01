@@ -3,7 +3,7 @@ package Tratamento_de_Erro.PersonalizadaB;
 import Tratamento_de_Erro.Aluno;
 
 public class Validar {
-    public static void Aluno(Aluno aluno){
+    public static void Aluno(Aluno aluno) throws NumeroForaDoIntervalo {
         if (aluno == null){
             throw new IllegalArgumentException("O aluno esta nulo!");
         }
