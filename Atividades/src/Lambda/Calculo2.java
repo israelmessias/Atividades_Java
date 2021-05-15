@@ -1,4 +1,4 @@
-package Lambda;
+package src.Lambda;
 
 import java.util.function.BinaryOperator;
 

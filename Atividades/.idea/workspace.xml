@@ -2,12 +2,39 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d9512e1-d5cc-4562-b5df-713848f0fd38" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/DesafioArray/DesafioArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesafioArray/DesafioArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Atividades.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/Atualizar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/ConsultarLike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/ConsultarPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/CriarBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/FabricaConexao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/InserirPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/J_Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/TabelaPessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/JDBC/Conexao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lambda/Calculo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lambda/Calculo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/String/TestString.java" beforeDir="false" afterPath="$PROJECT_DIR$/String/TestString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -19,27 +46,123 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AtividadesJava" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="ignore.preview.features.used" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mysql-connector-java-8.0.24.jar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.12091899" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ConsultarLike">
+    <configuration name="Atualizar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JDBC.Atualizar" />
+      <module name="Atividades" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.JDBC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsultarLike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JDBC.ConsultarLike" />
+      <module name="Atividades" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.JDBC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsultarPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JDBC.ConsultarPessoa" />
+      <module name="Atividades" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.JDBC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InseirPessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JDBC.InseirPessoa" />
+      <module name="Atividades" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.JDBC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="J_Pessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.JDBC.J_Pessoa" />
+      <module name="Atividades" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.JDBC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.ConsultarPessoa" />
+      <item itemvalue="Application.J_Pessoa" />
+      <item itemvalue="Application.InseirPessoa" />
+      <item itemvalue="Application.ConsultarLike" />
+      <item itemvalue="Application.Atualizar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Atualizar" />
+        <item itemvalue="Application.ConsultarLike" />
+        <item itemvalue="Application.ConsultarPessoa" />
+        <item itemvalue="Application.InseirPessoa" />
+        <item itemvalue="Application.J_Pessoa" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,6 +173,18 @@
       <option name="presentableId" value="Default" />
       <updated>1608314584539</updated>
       <workItem from="1608314586941" duration="420000" />
+      <workItem from="1620775445901" duration="378000" />
+      <workItem from="1620775832472" duration="18000" />
+      <workItem from="1620777518188" duration="1176000" />
+      <workItem from="1620811513451" duration="2976000" />
+      <workItem from="1620823730709" duration="651000" />
+      <workItem from="1620827477973" duration="6299000" />
+      <workItem from="1620837301398" duration="7648000" />
+      <workItem from="1620920230629" duration="2101000" />
+      <workItem from="1620922687360" duration="5243000" />
+      <workItem from="1620992211472" duration="604000" />
+      <workItem from="1620993115025" duration="6984000" />
+      <workItem from="1621025916197" duration="9969000" />
     </task>
     <servers />
   </component>
@@ -66,5 +201,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
