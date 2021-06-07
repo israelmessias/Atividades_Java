@@ -1,4 +1,4 @@
-package src.JDBC.DAO;
+package src.JDBC;
 
 import java.sql.*;
 
@@ -45,7 +45,7 @@ public class DAO {
     private Connection getConexao() throws SQLException {
         try {
             if (conexao != null && !conexao.isClosed()) return conexao;
-        }catch (SQLException e){}
+        }catch (SQLException ignored){}
         conexao = FabricaConexao.getConexao();
         return conexao;
     }
