@@ -1,4 +1,4 @@
-package src.JDBC;
+package src.JDBC.InseirPessoa;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
