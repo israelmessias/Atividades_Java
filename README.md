@@ -1,7 +1,4 @@
-# <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> Atividades_Java 
-
-   <h1 align="center">Exercício, Atividades e Exemplos que usei para aprender a Linguagem Java</h1>
-    
+# <img src="https://www.canva.com/design/DAEirBSum58/share/preview?token=8CWI-G--vBYHDg04N02XdQ&role=EDITOR&utm_content=DAEirBSum58&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton />
     #Tipos primitivos
     
     #Wrapper
