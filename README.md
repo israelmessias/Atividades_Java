@@ -1,4 +1,4 @@
-# <img src="https://www.canva.com/design/DAEirBSum58/share/preview?token=8CWI-G--vBYHDg04N02XdQ&role=EDITOR&utm_content=DAEirBSum58&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton />
+# 
     #Tipos primitivos
     
     #Wrapper
