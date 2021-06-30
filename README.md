@@ -1,25 +1,26 @@
 #   <img src="ATIVIDADES JAVA.png"> 
-    #Tipos primitivos
+Tipos primitivos
     
-    #Wrapper
     
-    #Operações
+- 🚀Wrapper
     
-    #Condições/Repetições
+- 🚀Operações
     
-    #Array
+- 🚀Condições/Repetições
     
-    #Classes
+- 🚀Array
     
-    #Collections(Coleções)
+- 🚀Classes
     
-    #Orientação a Objetos/Equals & Hashcode
+- 🚀Collections(Coleções)
     
-    #Lambda
+- 🚀Orientação a Objetos/Equals & Hashcode
     
-    #Stream API
+- 🚀Lambda
     
-    #JDBC 
+- 🚀Stream API
+    
+- 🚀JDBC 
   
   Obs.: Usei o banco de dados MySQL <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
     

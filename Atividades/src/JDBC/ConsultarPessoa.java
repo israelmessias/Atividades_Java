@@ -1,7 +1,8 @@
-package src.JDBC;
+package JDBC;
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
+import JDBC.*;
 
 public class ConsultarPessoa {
     public static void main(String[] args) throws SQLException {

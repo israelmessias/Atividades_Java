@@ -1,4 +1,4 @@
-package src.JDBC;
+package JDBC;
 
 public class J_Pessoa {
     private int id;

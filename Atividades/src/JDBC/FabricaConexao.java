@@ -1,4 +1,4 @@
-package src.JDBC;
+package JDBC;
 import java.io.*;
 import java.sql.*;
 import java.util.Properties;
